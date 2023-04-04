@@ -1,3 +1,1 @@
-const saludo = "hola";
-
-print(saludo)
+print("hola")
